@@ -1,0 +1,123 @@
+E:\My Documents\VB.Net\Project\Skripsi\PointOfSale\PointOfSale\bin\Debug\PointOfSale.exe.config
+E:\My Documents\VB.Net\Project\Skripsi\PointOfSale\PointOfSale\bin\Debug\PointOfSale.exe
+E:\My Documents\VB.Net\Project\Skripsi\PointOfSale\PointOfSale\bin\Debug\PointOfSale.pdb
+E:\My Documents\VB.Net\Project\Skripsi\PointOfSale\PointOfSale\bin\Debug\PointOfSale.xml
+E:\My Documents\VB.Net\Project\Skripsi\PointOfSale\PointOfSale\obj\x86\Debug\PointOfSale.loginForm.resources
+E:\My Documents\VB.Net\Project\Skripsi\PointOfSale\PointOfSale\obj\x86\Debug\PointOfSale.Resources.resources
+E:\My Documents\VB.Net\Project\Skripsi\PointOfSale\PointOfSale\obj\x86\Debug\PointOfSale.vbproj.GenerateResource.Cache
+E:\My Documents\VB.Net\Project\Skripsi\PointOfSale\PointOfSale\obj\x86\Debug\PointOfSale.exe
+E:\My Documents\VB.Net\Project\Skripsi\PointOfSale\PointOfSale\obj\x86\Debug\PointOfSale.xml
+E:\My Documents\VB.Net\Project\Skripsi\PointOfSale\PointOfSale\obj\x86\Debug\PointOfSale.pdb
+E:\My Documents\VB.Net\Project\Skripsi\PointOfSale\PointOfSale\obj\x86\Debug\PointOfSale.Main_Menu.resources
+E:\My Documents\VB.Net\Project\Skripsi\PointOfSale\PointOfSale\obj\x86\Debug\PointOfSale.suplierForm.resources
+E:\My Documents\VB.Net\Project\Skripsi\PointOfSale\PointOfSale\obj\x86\Debug\PointOfSale.editSuplier.resources
+E:\My Documents\VB.Net\Project\Skripsi\PointOfSale\PointOfSale\obj\x86\Debug\PointOfSale.detailSuplier.resources
+E:\My Documents\VB.Net\Project\Skripsi\PointOfSale\PointOfSale\obj\x86\Debug\PointOfSale.akunForm.resources
+E:\My Documents\VB.Net\Project\Skripsi\PointOfSale\PointOfSale\obj\x86\Debug\PointOfSale.editAkun.resources
+E:\My Documents\VB.Net\Project\Skripsi\PointOfSale\PointOfSale\obj\x86\Debug\PointOfSale.detailAkun.resources
+E:\My Documents\VB.Net\Project\Skripsi\PointOfSale\PointOfSale\obj\x86\Debug\PointOfSale.barangMasukForm.resources
+E:\My Documents\VB.Net\Project\Skripsi\PointOfSale\PointOfSale\obj\x86\Debug\PointOfSale.masterBarangForm.resources
+E:\My Documents\VB.Net\Project\Skripsi\PointOfSale\PointOfSale\obj\x86\Debug\PointOfSale.editMasterBarang.resources
+E:\My Documents\VB.Net\Project\Skripsi\PointOfSale\PointOfSale\obj\x86\Debug\PointOfSale.barcodeForm.resources
+E:\My Documents\VB.Net\Project\Skripsi\PointOfSale\PointOfSale\obj\x86\Debug\PointOfSale.editBarcode.resources
+E:\My Documents\VB.Net\Project\Skripsi\PointOfSale\PointOfSale\obj\x86\Debug\PointOfSale.Transaksi_Penjualan.resources
+E:\My Documents\VB.Net\Project\Skripsi\PointOfSale\PointOfSale\obj\x86\Debug\PointOfSale.transaksiCariBarang.resources
+E:\My Documents\VB.Net\Project\Skripsi\PointOfSale\PointOfSale\obj\x86\Debug\PointOfSale.transaksiForm.resources
+E:\My Documents\VB.Net\Project\Skripsi\PointOfSale\PointOfSale\obj\x86\Debug\PointOfSale.detailTransaksi.resources
+E:\My Documents\VB.Net\Project\Skripsi\PointOfSale\PointOfSale\obj\x86\Debug\PointOfSale.laporanStatistik.resources
+E:\My Documents\VB.Net\Project\Skripsi\PointOfSale\PointOfSale\obj\x86\Debug\PointOfSale.laporanRekapPenjualan.resources
+E:\My Documents\VB.Net\Project\Skripsi\PointOfSale\PointOfSale\obj\x86\Debug\PointOfSale.laporanBarangMasuk.resources
+E:\My Documents\VB.Net\Project\Skripsi\PointOfSale\PointOfSale\obj\x86\Debug\PointOfSale.laporanBarang.resources
+C:\Users\ikrar\Documents\VS2010\PointOfSale\PointOfSale\bin\Debug\PointOfSale.exe.config
+C:\Users\ikrar\Documents\VS2010\PointOfSale\PointOfSale\obj\x86\Debug\PointOfSale.exe
+C:\Users\ikrar\Documents\VS2010\PointOfSale\PointOfSale\obj\x86\Debug\PointOfSale.xml
+C:\Users\ikrar\Documents\VS2010\PointOfSale\PointOfSale\obj\x86\Debug\PointOfSale.pdb
+C:\Users\ikrar\Documents\VS2010\PointOfSale\PointOfSale\bin\Debug\PointOfSale.exe
+C:\Users\ikrar\Documents\VS2010\PointOfSale\PointOfSale\bin\Debug\PointOfSale.pdb
+C:\Users\ikrar\Documents\VS2010\PointOfSale\PointOfSale\bin\Debug\PointOfSale.xml
+C:\Users\ikrar\Documents\VS2010\PointOfSale\PointOfSale\obj\x86\Debug\PointOfSale.vbprojResolveAssemblyReference.cache
+C:\Users\ikrar\Documents\VS2010\PointOfSale\PointOfSale\obj\x86\Debug\PointOfSale.akunForm.resources
+C:\Users\ikrar\Documents\VS2010\PointOfSale\PointOfSale\obj\x86\Debug\PointOfSale.detailAkun.resources
+C:\Users\ikrar\Documents\VS2010\PointOfSale\PointOfSale\obj\x86\Debug\PointOfSale.barangMasukForm.resources
+C:\Users\ikrar\Documents\VS2010\PointOfSale\PointOfSale\obj\x86\Debug\PointOfSale.barcodeForm.resources
+C:\Users\ikrar\Documents\VS2010\PointOfSale\PointOfSale\obj\x86\Debug\PointOfSale.editBarcode.resources
+C:\Users\ikrar\Documents\VS2010\PointOfSale\PointOfSale\obj\x86\Debug\PointOfSale.editMasterBarang.resources
+C:\Users\ikrar\Documents\VS2010\PointOfSale\PointOfSale\obj\x86\Debug\PointOfSale.masterBarangForm.resources
+C:\Users\ikrar\Documents\VS2010\PointOfSale\PointOfSale\obj\x86\Debug\PointOfSale.laporanBarang.resources
+C:\Users\ikrar\Documents\VS2010\PointOfSale\PointOfSale\obj\x86\Debug\PointOfSale.laporanBarangMasuk.resources
+C:\Users\ikrar\Documents\VS2010\PointOfSale\PointOfSale\obj\x86\Debug\PointOfSale.laporanRekapPenjualan.resources
+C:\Users\ikrar\Documents\VS2010\PointOfSale\PointOfSale\obj\x86\Debug\PointOfSale.laporanStatistik.resources
+C:\Users\ikrar\Documents\VS2010\PointOfSale\PointOfSale\obj\x86\Debug\PointOfSale.detailSuplier.resources
+C:\Users\ikrar\Documents\VS2010\PointOfSale\PointOfSale\obj\x86\Debug\PointOfSale.editAkun.resources
+C:\Users\ikrar\Documents\VS2010\PointOfSale\PointOfSale\obj\x86\Debug\PointOfSale.editSuplier.resources
+C:\Users\ikrar\Documents\VS2010\PointOfSale\PointOfSale\obj\x86\Debug\PointOfSale.loginForm.resources
+C:\Users\ikrar\Documents\VS2010\PointOfSale\PointOfSale\obj\x86\Debug\PointOfSale.Main_Menu.resources
+C:\Users\ikrar\Documents\VS2010\PointOfSale\PointOfSale\obj\x86\Debug\PointOfSale.Resources.resources
+C:\Users\ikrar\Documents\VS2010\PointOfSale\PointOfSale\obj\x86\Debug\PointOfSale.suplierForm.resources
+C:\Users\ikrar\Documents\VS2010\PointOfSale\PointOfSale\obj\x86\Debug\PointOfSale.detailTransaksi.resources
+C:\Users\ikrar\Documents\VS2010\PointOfSale\PointOfSale\obj\x86\Debug\PointOfSale.transaksiForm.resources
+C:\Users\ikrar\Documents\VS2010\PointOfSale\PointOfSale\obj\x86\Debug\PointOfSale.Transaksi_Penjualan.resources
+C:\Users\ikrar\Documents\VS2010\PointOfSale\PointOfSale\obj\x86\Debug\PointOfSale.transaksiCariBarang.resources
+C:\Users\ikrar\Documents\VS2010\PointOfSale\PointOfSale\obj\x86\Debug\PointOfSale.vbproj.GenerateResource.Cache
+D:\EKO\Program Skripsi\PointOfSale\PointOfSale\bin\Debug\PointOfSale.exe.config
+D:\EKO\Program Skripsi\PointOfSale\PointOfSale\obj\x86\Debug\PointOfSale.exe
+D:\EKO\Program Skripsi\PointOfSale\PointOfSale\obj\x86\Debug\PointOfSale.xml
+D:\EKO\Program Skripsi\PointOfSale\PointOfSale\obj\x86\Debug\PointOfSale.pdb
+D:\EKO\Program Skripsi\PointOfSale\PointOfSale\obj\x86\Debug\PointOfSale.vbprojResolveAssemblyReference.cache
+D:\EKO\Program Skripsi\PointOfSale\PointOfSale\obj\x86\Debug\PointOfSale.akunForm.resources
+D:\EKO\Program Skripsi\PointOfSale\PointOfSale\obj\x86\Debug\PointOfSale.detailAkun.resources
+D:\EKO\Program Skripsi\PointOfSale\PointOfSale\obj\x86\Debug\PointOfSale.barangMasukForm.resources
+D:\EKO\Program Skripsi\PointOfSale\PointOfSale\obj\x86\Debug\PointOfSale.barcodeForm.resources
+D:\EKO\Program Skripsi\PointOfSale\PointOfSale\obj\x86\Debug\PointOfSale.editBarcode.resources
+D:\EKO\Program Skripsi\PointOfSale\PointOfSale\obj\x86\Debug\PointOfSale.editMasterBarang.resources
+D:\EKO\Program Skripsi\PointOfSale\PointOfSale\obj\x86\Debug\PointOfSale.masterBarangForm.resources
+D:\EKO\Program Skripsi\PointOfSale\PointOfSale\obj\x86\Debug\PointOfSale.laporanBarang.resources
+D:\EKO\Program Skripsi\PointOfSale\PointOfSale\obj\x86\Debug\PointOfSale.laporanBarangMasuk.resources
+D:\EKO\Program Skripsi\PointOfSale\PointOfSale\obj\x86\Debug\PointOfSale.laporanRekapPenjualan.resources
+D:\EKO\Program Skripsi\PointOfSale\PointOfSale\obj\x86\Debug\PointOfSale.laporanStatistik.resources
+D:\EKO\Program Skripsi\PointOfSale\PointOfSale\obj\x86\Debug\PointOfSale.detailSuplier.resources
+D:\EKO\Program Skripsi\PointOfSale\PointOfSale\obj\x86\Debug\PointOfSale.editAkun.resources
+D:\EKO\Program Skripsi\PointOfSale\PointOfSale\obj\x86\Debug\PointOfSale.editSuplier.resources
+D:\EKO\Program Skripsi\PointOfSale\PointOfSale\obj\x86\Debug\PointOfSale.loginForm.resources
+D:\EKO\Program Skripsi\PointOfSale\PointOfSale\obj\x86\Debug\PointOfSale.Main_Menu.resources
+D:\EKO\Program Skripsi\PointOfSale\PointOfSale\obj\x86\Debug\PointOfSale.Resources.resources
+D:\EKO\Program Skripsi\PointOfSale\PointOfSale\obj\x86\Debug\PointOfSale.suplierForm.resources
+D:\EKO\Program Skripsi\PointOfSale\PointOfSale\obj\x86\Debug\PointOfSale.detailTransaksi.resources
+D:\EKO\Program Skripsi\PointOfSale\PointOfSale\obj\x86\Debug\PointOfSale.transaksiForm.resources
+D:\EKO\Program Skripsi\PointOfSale\PointOfSale\obj\x86\Debug\PointOfSale.Transaksi_Penjualan.resources
+D:\EKO\Program Skripsi\PointOfSale\PointOfSale\obj\x86\Debug\PointOfSale.transaksiCariBarang.resources
+D:\EKO\Program Skripsi\PointOfSale\PointOfSale\obj\x86\Debug\PointOfSale.vbproj.GenerateResource.Cache
+D:\EKO\Program Skripsi\PointOfSale\PointOfSale\bin\Debug\PointOfSale.exe
+D:\EKO\Program Skripsi\PointOfSale\PointOfSale\bin\Debug\PointOfSale.pdb
+D:\EKO\Program Skripsi\PointOfSale\PointOfSale\bin\Debug\PointOfSale.xml
+C:\Users\organizer\Documents\Visual Studio 2010\Projects\PointOfSale\PointOfSale\bin\Debug\PointOfSale.exe.config
+C:\Users\organizer\Documents\Visual Studio 2010\Projects\PointOfSale\PointOfSale\obj\x86\Debug\PointOfSale.exe
+C:\Users\organizer\Documents\Visual Studio 2010\Projects\PointOfSale\PointOfSale\obj\x86\Debug\PointOfSale.xml
+C:\Users\organizer\Documents\Visual Studio 2010\Projects\PointOfSale\PointOfSale\obj\x86\Debug\PointOfSale.pdb
+C:\Users\organizer\Documents\Visual Studio 2010\Projects\PointOfSale\PointOfSale\bin\Debug\PointOfSale.exe
+C:\Users\organizer\Documents\Visual Studio 2010\Projects\PointOfSale\PointOfSale\bin\Debug\PointOfSale.pdb
+C:\Users\organizer\Documents\Visual Studio 2010\Projects\PointOfSale\PointOfSale\bin\Debug\PointOfSale.xml
+C:\Users\organizer\Documents\Visual Studio 2010\Projects\PointOfSale\PointOfSale\obj\x86\Debug\PointOfSale.akunForm.resources
+C:\Users\organizer\Documents\Visual Studio 2010\Projects\PointOfSale\PointOfSale\obj\x86\Debug\PointOfSale.detailAkun.resources
+C:\Users\organizer\Documents\Visual Studio 2010\Projects\PointOfSale\PointOfSale\obj\x86\Debug\PointOfSale.barangMasukForm.resources
+C:\Users\organizer\Documents\Visual Studio 2010\Projects\PointOfSale\PointOfSale\obj\x86\Debug\PointOfSale.barcodeForm.resources
+C:\Users\organizer\Documents\Visual Studio 2010\Projects\PointOfSale\PointOfSale\obj\x86\Debug\PointOfSale.editBarcode.resources
+C:\Users\organizer\Documents\Visual Studio 2010\Projects\PointOfSale\PointOfSale\obj\x86\Debug\PointOfSale.editMasterBarang.resources
+C:\Users\organizer\Documents\Visual Studio 2010\Projects\PointOfSale\PointOfSale\obj\x86\Debug\PointOfSale.masterBarangForm.resources
+C:\Users\organizer\Documents\Visual Studio 2010\Projects\PointOfSale\PointOfSale\obj\x86\Debug\PointOfSale.laporanBarang.resources
+C:\Users\organizer\Documents\Visual Studio 2010\Projects\PointOfSale\PointOfSale\obj\x86\Debug\PointOfSale.laporanBarangMasuk.resources
+C:\Users\organizer\Documents\Visual Studio 2010\Projects\PointOfSale\PointOfSale\obj\x86\Debug\PointOfSale.laporanRekapPenjualan.resources
+C:\Users\organizer\Documents\Visual Studio 2010\Projects\PointOfSale\PointOfSale\obj\x86\Debug\PointOfSale.laporanStatistik.resources
+C:\Users\organizer\Documents\Visual Studio 2010\Projects\PointOfSale\PointOfSale\obj\x86\Debug\PointOfSale.detailSuplier.resources
+C:\Users\organizer\Documents\Visual Studio 2010\Projects\PointOfSale\PointOfSale\obj\x86\Debug\PointOfSale.editAkun.resources
+C:\Users\organizer\Documents\Visual Studio 2010\Projects\PointOfSale\PointOfSale\obj\x86\Debug\PointOfSale.editSuplier.resources
+C:\Users\organizer\Documents\Visual Studio 2010\Projects\PointOfSale\PointOfSale\obj\x86\Debug\PointOfSale.loginForm.resources
+C:\Users\organizer\Documents\Visual Studio 2010\Projects\PointOfSale\PointOfSale\obj\x86\Debug\PointOfSale.Main_Menu.resources
+C:\Users\organizer\Documents\Visual Studio 2010\Projects\PointOfSale\PointOfSale\obj\x86\Debug\PointOfSale.Resources.resources
+C:\Users\organizer\Documents\Visual Studio 2010\Projects\PointOfSale\PointOfSale\obj\x86\Debug\PointOfSale.suplierForm.resources
+C:\Users\organizer\Documents\Visual Studio 2010\Projects\PointOfSale\PointOfSale\obj\x86\Debug\PointOfSale.detailTransaksi.resources
+C:\Users\organizer\Documents\Visual Studio 2010\Projects\PointOfSale\PointOfSale\obj\x86\Debug\PointOfSale.transaksiForm.resources
+C:\Users\organizer\Documents\Visual Studio 2010\Projects\PointOfSale\PointOfSale\obj\x86\Debug\PointOfSale.Transaksi_Penjualan.resources
+C:\Users\organizer\Documents\Visual Studio 2010\Projects\PointOfSale\PointOfSale\obj\x86\Debug\PointOfSale.transaksiCariBarang.resources
+C:\Users\organizer\Documents\Visual Studio 2010\Projects\PointOfSale\PointOfSale\obj\x86\Debug\PointOfSale.vbproj.GenerateResource.Cache
+C:\Users\organizer\Documents\Visual Studio 2010\Projects\PointOfSale\PointOfSale\obj\x86\Debug\PointOfSale.laporanLaba.resources
